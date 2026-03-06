@@ -1,6 +1,5 @@
 # 🚀 Introduction to the System Design Series
 
-
 ## 🚧 The Core Problem with Learning System Design
 
 The specific problem is that when you ask someone about System Design, they will usually just point you to some resources, saying, "read from here."
